@@ -1,0 +1,19 @@
+.header {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card {
+  width: 500px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
